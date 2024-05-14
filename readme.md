@@ -1,0 +1,14 @@
+文件
+mymain.py：运行的主函数
+myevolution.py：生成音乐
+comparafig.py：用于画图
+midtowav.py：将midi文件转为wav文件
+midconvertnpy.py：从midi文件读取音高
+modeltrain.py:训练神经网络
+my_model.h5：神经网络模型
+文件夹
+figure：图片
+othermethod：其他方法的
+temp：存放生成完成的歌曲
+trainset：训练的歌曲
+sample：生成的歌曲例子
