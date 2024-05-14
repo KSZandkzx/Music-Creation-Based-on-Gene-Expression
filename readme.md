@@ -6,6 +6,7 @@ midtowav.py：将midi文件转为wav文件
 midconvertnpy.py：从midi文件读取音高
 modeltrain.py:训练神经网络
 my_model.h5：神经网络模型
+------------------------------
 文件夹
 figure：图片
 othermethod：其他方法的
